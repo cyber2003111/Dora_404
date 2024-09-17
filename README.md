@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyber2003111&label=Profile%20views&color=0e75b6&style=flat" alt="cyber2003111"  width="60" height="60" />
+  <img src="https://komarev.com/ghpvc/?username=cyber2003111&label=Profile%20views&color=0e75b6&style=flat" alt="cyber2003111"  width="70" height="50" />
 </p>
 
 ---
