@@ -20,6 +20,13 @@
 
 ---
 
+<h3 align="left">📜 Cisco Courses and Certifications:</h3>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="abce9111-1348-49e5-8aa7-fd0ab3e21e6a" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+---
+
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -56,21 +63,14 @@
 
 ---
 
-<h3 align="left">🎓 Cisco Certifications</h3>
-<p align="left">
-  <img src="https://www.credly.com/badges/abce9111-1348-49e5-8aa7-fd0ab3e21e6a/public_url" alt="Introduction to cybersec" width="120" />
-  <img src="https://www.credly.com/badges/54a83dde-1c65-4cce-9dfe-b104c2670021/public_url" alt="IOT" width="120" />
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="abce9111-1348-49e5-8aa7-fd0ab3e21e6a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
- </div>
+<h3 align="left">📊 Most Used Languages (Animated):</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber2003111&show_icons=true&locale=en&layout=compact&theme=radical" alt="cyber2003111" />
 </p>
 
 ---
 
-<h3 align="center">📊 Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber2003111&layout=compact&langs_count=8&theme=react" alt="cyber2003111" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber2003111&theme=react" alt="cyber2003111 streak stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyber2003111&theme=radical" alt="cyber2003111" />
 </p>
