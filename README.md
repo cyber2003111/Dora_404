@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Himaru Muthuhansa</h1>
-<marquee><p>Syber Security Student In SriLanka</p></marquee>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyber2003111&label=Profile%20views&color=0e75b6&style=flat" alt="cyber2003111"  width="80" height="30" />
 </p>
