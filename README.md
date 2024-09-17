@@ -16,7 +16,7 @@
   <li>Programming</li>
   <li>Full Stack Developing</li>
 </ul>
-- 📫 Connect With Me: **himarumuthuhansa@gmail.com**
+- 📫 Connect With Me: himarumuthuhansa@gmail.com
 
 ---
 
