@@ -1,5 +1,3 @@
-# Dora_404
-
 <h1 align="center">Hi 👋, I'm Himaru Muthuhansa</h1>
 <h3 align="center">Cybersecurity Researcher | Passionate about Digital Security | Ethical Hacking | Threat Intelligence | Malware Analysis | CTF Player</h3>
 
