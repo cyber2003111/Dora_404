@@ -1,13 +1,12 @@
 <h1 align="center">Hi there👋, I'm Himaru Muthuhansa</h1>
 
-![Header](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVrNWFwcWtlemx1ZDc1NmQyMW1ra25pdmtvdnphMjRiMnRhenJ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.gif)
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyber2003111&label=Profile%20views&color=0e75b6&style=flat" alt="cyber2003111"  width="80" height="30" />
 </p>
 <hr>
-(https://lottie.host/embed/7caa8ae0-ea6c-4cf4-b82e-eb6c6e60c095/8f6w999q8G.json" width="400" height="300" />
+
+![Header](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVrNWFwcWtlemx1ZDc1NmQyMW1ra25pdmtvdnphMjRiMnRhenJ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.gif)
+
 <h2 align="left">👨‍🎓 About me:</h2>
 <p>I am a cybersecurity researcher and full-stack developer with experience in MySQL, PHP, and Linux file systems. I actively participate in CTF challenges and bug bounty programs, continuously honing my skills. Additionally, I bring creativity to my work as a graphic designer, blending technical expertise with visual design.
 </p>
