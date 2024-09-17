@@ -60,7 +60,7 @@
 <p align="left">
   <img src="https://www.credly.com/badges/abce9111-1348-49e5-8aa7-fd0ab3e21e6a/public_url" alt="Introduction to cybersec" width="120" />
   <img src="https://www.credly.com/badges/54a83dde-1c65-4cce-9dfe-b104c2670021/public_url" alt="IOT" width="120" />
-  <img src="https://www.credly.com/badges/e09fb58f-2a97-4d31-b74c-5b77eb0693cf/public_url" alt="CyberSec Essentials" width="120" />
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="abce9111-1348-49e5-8aa7-fd0ab3e21e6a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
 
 ---
