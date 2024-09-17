@@ -7,8 +7,6 @@
 <h2 align="left">👨‍🎓 About me:</h2>
 <p>I am a cybersecurity researcher and full-stack developer with experience in MySQL, PHP, and Linux file systems. I actively participate in CTF challenges and bug bounty programs, continuously honing my skills. Additionally, I bring creativity to my work as a graphic designer, blending technical expertise with visual design.
 </p>
-<br>
-
 
 ---
 <h2 align="left">🌱 I’m currently learning :</h2>
@@ -67,7 +65,7 @@
 
 ---
 
-<h3 align="left">📊 Most Used Languages (Animated):</h3>
+<h3 align="left">📊 Dora'S Most Used Languages:</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber2003111&show_icons=true&locale=en&layout=compact&theme=radical" alt="cyber2003111" />
