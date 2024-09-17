@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himaru Muthuhansa</h1>
 
-<h4 align="left">👨‍🎓 About me:</h4>
-<h3>I am a cybersecurity researcher and full-stack developer with experience in MySQL, PHP, and Linux file systems. I actively participate in CTF challenges and bug bounty programs, continuously honing my skills. Additionally, I bring creativity to my work as a graphic designer, blending technical expertise with visual design.
+<h2 align="left">👨‍🎓 About me:</h2>
+<h5>I am a cybersecurity researcher and full-stack developer with experience in MySQL, PHP, and Linux file systems. I actively participate in CTF challenges and bug bounty programs, continuously honing my skills. Additionally, I bring creativity to my work as a graphic designer, blending technical expertise with visual design.
 
-</h3>
+</h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyber2003111&label=Profile%20views&color=0e75b6&style=flat" alt="cyber2003111" />
