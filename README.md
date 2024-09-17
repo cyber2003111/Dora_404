@@ -1,9 +1,7 @@
 <h1 align="center">Hi there👋, I'm Himaru Muthuhansa</h1>
-<p>
-<center>
+
 ![Header](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVrNWFwcWtlemx1ZDc1NmQyMW1ra25pdmtvdnphMjRiMnRhenJ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.gif)
-</center>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyber2003111&label=Profile%20views&color=0e75b6&style=flat" alt="cyber2003111"  width="80" height="30" />
