@@ -11,11 +11,11 @@
 
 ---
 <h2 align="left">🌱 I’m currently learning :</h2>
-- **<ul>
-  <li>**Cyber Security**</li>
-  <li>**Linux**</li>
-  <li>**Programming**</li>
-  <li>**Full Stack Developing**</li>
+- <ul>
+  <li>Cyber Security**</li>
+  <li>Linux</li>
+  <li>Programming</li>
+  <li>Full Stack Developing</li>
 </ul>
 - 📫 Connect With Me: **himarumuthuhansa@gmail.com**
 
