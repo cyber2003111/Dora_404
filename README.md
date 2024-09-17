@@ -56,6 +56,20 @@
 
 ---
 
+<h3 align="left">🎓 Cisco Certifications</h3>
+<p align="left">
+  <img src="https://www.credly.com/badges/35f18657-ef4d-4c4f-a228-2ef1ef4c0593/public_url" alt="CCNA" width="120" />
+  <img src="https://www.credly.com/badges/5aefc2ea-c0c7-4aef-8776-3a0733e42e2d/public_url" alt="CyberOps Associate" width="120" />
+  <img src="https://www.credly.com/badges/d7d38f34-95f3-4b2a-b38b-791935a5e6f1/public_url" alt="DevNet Associate" width="120" />
+</p>
+
+---
+
+<h3 align="center">📊 Most Used Languages</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber2003111&show_icons=true&locale=en&layout=compact" alt="cyber2003111" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber2003111&layout=compact&langs_count=8&theme=react" alt="cyber2003111" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber2003111&theme=react" alt="cyber2003111 streak stats" />
 </p>
