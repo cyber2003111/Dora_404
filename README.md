@@ -2,7 +2,6 @@
 
 <h2 align="left">👨‍🎓 About me:</h2>
 <p>I am a cybersecurity researcher and full-stack developer with experience in MySQL, PHP, and Linux file systems. I actively participate in CTF challenges and bug bounty programs, continuously honing my skills. Additionally, I bring creativity to my work as a graphic designer, blending technical expertise with visual design.
-
 </p>
 <br>
 <p align="center">
