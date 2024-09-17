@@ -57,11 +57,9 @@
 ---
 
 <h3 align="left">🎓 Cisco Certifications</h3>
-<p align="left">
-  <img src="https://www.credly.com/badges/35f18657-ef4d-4c4f-a228-2ef1ef4c0593/public_url" alt="CCNA" width="120" />
-  <img src="https://www.credly.com/badges/5aefc2ea-c0c7-4aef-8776-3a0733e42e2d/public_url" alt="CyberOps Associate" width="120" />
-  <img src="https://www.credly.com/badges/d7d38f34-95f3-4b2a-b38b-791935a5e6f1/public_url" alt="DevNet Associate" width="120" />
-</p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="abce9111-1348-49e5-8aa7-fd0ab3e21e6a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="54a83dde-1c65-4cce-9dfe-b104c2670021" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e09fb58f-2a97-4d31-b74c-5b77eb0693cf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
